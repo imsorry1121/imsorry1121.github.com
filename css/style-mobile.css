@@ -152,14 +152,9 @@ body {
 	background-size: contain;
 	opacity: 0.65;
 }
-
-
-
 .image.small{
 	width: 100%;
 	height: 100%;
-	padding: 0.5em;
-
 }
 
 .item h4{
@@ -168,6 +163,16 @@ body {
 .item p{
 	font-size: 70%;
 }
-.gallery i{
+#cont i{
 	font-size: 50%
+}
+.main.style2 i{
+	font-size: 30px;
+}
+.main.style2 h3{
+	font-size: 15px;
+	text-align: left;
+}
+.main.style1 p{
+	padding: 0px;
 }
